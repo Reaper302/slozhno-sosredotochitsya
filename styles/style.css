@@ -142,10 +142,6 @@
   display: inline;
 }
 
-.header-pictures {
-  margin-bottom: 55px;
-}
-
 .heading-red {
   margin: 0;
   color: var(--text-block-color);
@@ -291,9 +287,11 @@
       font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
       margin: 0px;
   }
+
   .main {
       gap: 80px;
   }
+  
   .header {
       gap: 163px;
       margin-inline-start: 0;
