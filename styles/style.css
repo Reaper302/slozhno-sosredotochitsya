@@ -279,7 +279,7 @@
   .page {
       font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
       margin: 0px;
-      padding-top: 20px;
+      padding-bottom: 20px;
   }
 
   .header {
