@@ -1,5 +1,6 @@
 
 .theme_light {
+  --background-color: #FFF1F7;
   --header-color: #FFC2E6;
   --text-color: #353430;
   --block-color: #FF8DCB;
@@ -13,6 +14,7 @@
 
 @media (prefers-color-scheme: light) {
 :root {
+  --background-color: #FFF1F7;
   --header-color: #FFC2E6;
   --text-color: #353430;
   --block-color: #FF8DCB;
