@@ -8,6 +8,7 @@
   --shadow-color: #FF8DCB;
   --decor-color: #353430;
   --shadow2-color: #FF0070;
+  --outline-color: #32312D66;
    --backgorund-image: url(../images/cover-image-light.png);
    --decor-visibility: hidden;
 }
@@ -22,6 +23,7 @@
   --shadow-color: #FF8DCB;
   --decor-color: #353430;
   --shadow2-color: #FF0070;
+  --outline-color: #32312D66;
    --backgorund-image: url(../images/cover-image-light.png);
    --decor-visibility: hidden;
    

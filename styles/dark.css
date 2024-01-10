@@ -1,6 +1,7 @@
 
 .theme_dark {
   --background-color: #000028;
+  --outline-color: #FF007066;
   --header-color: #DB00FF;
   --text-color: #F1B2CE;
   --block-color: #ff0070;
@@ -15,6 +16,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --background-color: #000028;
+    --outline-color: #FF007066;
     --header-color: #DB00FF;
     --text-color: #F1B2CE;
     --block-color: #ff0070;
