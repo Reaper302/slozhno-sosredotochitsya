@@ -55,7 +55,6 @@
   width: calc(100% - 10px);
   position: absolute;
   z-index: -1;
-  visibility: visible;
   inset-inline-end: 30px;
   inset-inline-start: 0px;
   display: inline-flex;
